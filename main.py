@@ -86,6 +86,28 @@ x = 4
 x += 3
 print(x) #Addition Assignment
 
+x = 4
+x -= 3
+print(x) #Subtraction Assignment
+
+x = 4
+x *= 3
+print(x) #Multiplacation
+
+x = 4
+x /= 3
+print(x) #Division
+
+x = 4
+x **= 3
+print(x) #Exponentiation
+
+x = 4
+x //= 3
+print(x) #floor division
+
+
+#python comparison operator
 
 
 
